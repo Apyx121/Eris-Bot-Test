@@ -1,0 +1,19 @@
+{
+  "name": "eris-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apyx121/Eris-Bot-Test.git"
+  },
+  "author": "Apyx#9480",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apyx121/Eris-Bot-Test/issues"
+  },
+  "homepage": "https://github.com/Apyx121/Eris-Bot-Test#readme"
+}
